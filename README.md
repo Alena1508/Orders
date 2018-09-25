@@ -1,4 +1,4 @@
-# Plugin-React-UserChat
+# Orders plugin
 
 This plugin is used to support Orders around a PulseTile ReactJS based application.
 
